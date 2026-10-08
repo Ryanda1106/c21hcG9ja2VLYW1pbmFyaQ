@@ -1,0 +1,30 @@
+c[36m====================================================[0m
+[36m                                                    [0m
+[36m  .d8888b.   .d8888b.  888888b.   .d8888b.  [0m
+[36m d88P  Y88b d88P  Y88b 888  "88b d88P  Y88b [0m
+[36m 888    888 888    888 888  .88P 888    888 [0m
+[36m 888        888        8888888K.  888       [0m
+[36m 888        888        888  "Y88b 888       [0m
+[36m 888    888 888    888 888    888 888    888 [0m
+[36m Y88b  d88P Y88b  d88P 888   d88P Y88b  d88P [0m
+[36m  "Y8888P"   "Y8888P"  8888888P"   "Y8888P"  [0m
+[36m              card-battle bot (multi-account) [0m
+[36m====================================================[0m
+
+⚠️  akun "Kaminari": field "cookiSmapocke" kosong — hanya bisa ikut menu Register.
+[akun] --account=0 -> semua 1 akun
+[lawan] difficulty=normal
+[menu] --menu=6,1,7 -> Daily star, Play match, Claim mission
+Processing all of your choice, wait a sec... | Processing all of your choice, wait a sec... / Processing all of your choice, wait a sec... - Processing all of your choice, wait a sec... \ Processing all of your choice, wait a sec... | Processing all of your choice, wait a sec... / Processing all of your choice, wait a sec... - Processing all of your choice, wait a sec... \ Processing all of your choice, wait a sec... | Processing all of your choice, wait a sec... / Processing all of your choice, wait a sec... -                                                
+🧾 Executing your selected menu: Daily star
+
+❌ akun "Kaminari" tidak punya cookie di account.json.
+
+🧾 Executing your selected menu: Play match
+
+❌ akun "Kaminari" tidak punya cookie di account.json.
+
+🧾 Executing your selected menu: Claim mission
+
+❌ akun "Kaminari" tidak punya cookie di account.json.
+
