@@ -13,7 +13,7 @@
 
 ⚠️  akun "Kaminari": field "cookiSmapocke" kosong — hanya bisa ikut menu Register.
 [akun] --account=0 -> semua 1 akun
-[lawan] difficulty=normal
+[lawan] difficulty=expert
 [menu] --menu=6,1,7 -> Daily star, Play match, Claim mission
 Processing all of your choice, wait a sec... | Processing all of your choice, wait a sec... / Processing all of your choice, wait a sec... - Processing all of your choice, wait a sec... \ Processing all of your choice, wait a sec... | Processing all of your choice, wait a sec... / Processing all of your choice, wait a sec... - Processing all of your choice, wait a sec... \ Processing all of your choice, wait a sec... | Processing all of your choice, wait a sec... / Processing all of your choice, wait a sec... -                                                
 🧾 Executing your selected menu: Daily star
