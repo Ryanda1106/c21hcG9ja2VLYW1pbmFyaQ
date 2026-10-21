@@ -2,7 +2,7 @@ name: c21hcG9ja2VLYW1pbmFyaQ
 
 on:
   schedule:
-    - cron: '0 5 * * *'
+    - cron: '0 2 * * *'
   workflow_dispatch:
 
 permissions:
@@ -25,7 +25,7 @@ jobs:
 
           GIT_NAME=$(printf '%s' "$USER_INFO" | jq -r '.login // empty' 2>/dev/null || true)
           GIT_EMAIL=$(printf '%s' "$USER_INFO" | jq -r '.email // empty' 2>/dev/null || true)
-		  GIT_PUBLIC_NAME=$(printf '%s' "$USER_INFO" | jq -r '.name // empty' 2>/dev/null || true)
+          GIT_PUBLIC_NAME=$(printf '%s' "$USER_INFO" | jq -r '.name // empty' 2>/dev/null || true)
 
           if [ -z "$GIT_NAME" ] || [ "$GIT_NAME" = "null" ]; then
             GIT_NAME="$ACTOR"
@@ -34,8 +34,8 @@ jobs:
           if [ -z "$GIT_EMAIL" ] || [ "$GIT_EMAIL" = "null" ]; then
             GIT_EMAIL="${GIT_NAME}@users.noreply.github.com"
           fi
-		  
-		  if [ -z "$GIT_PUBLIC_NAME" ] || [ "$GIT_PUBLIC_NAME" = "null" ]; then
+
+          if [ -z "$GIT_PUBLIC_NAME" ] || [ "$GIT_PUBLIC_NAME" = "null" ]; then
             GIT_PUBLIC_NAME="${GIT_NAME:-$ACTOR}"
           fi
 
@@ -163,8 +163,8 @@ jobs:
 
           echo "🚀 Running app.mjs..."
           node app.mjs --account=0 --menu=7
-		  
-	  # ==========================================
+
+      # ==========================================
       # RUN SMART POCKET Normal
       # ==========================================
       - name: Run Script Smart Pocket Normal
@@ -188,7 +188,7 @@ jobs:
           echo "🚀 Running app.mjs..."
           node app.mjs --account=0 --menu=1 --matches=10 --difficulty=hard
 
-	  # ==========================================
+      # ==========================================
       # RUN SMART POCKET Expert
       # ==========================================
       - name: Run Script Smart Pocket
@@ -199,8 +199,8 @@ jobs:
 
           echo "🚀 Running app.mjs..."
           node app.mjs --account=0 --menu=1 --matches=10 --difficulty=expert
-		  
-	  # ==========================================
+
+      # ==========================================
       # RUN SMART POCKET Claim Mission
       # ==========================================
       - name: Run Script Smart Pocket Claim Mission
@@ -211,8 +211,8 @@ jobs:
 
           echo "🚀 Running app.mjs..."
           node app.mjs --account=0 --menu=8
-		  
-	  # ==========================================
+
+      # ==========================================
       # CHECK CACHE AND LOGS
       # ==========================================
       - name: Check Cache And Logs
@@ -225,8 +225,8 @@ jobs:
           else
             echo "ℹ️ .cache directory does not exist."
           fi
-		  
-		  echo "💾 Checking logs.."
+
+          echo "💾 Checking logs.."
 
           if [ -d ".logs" ]; then
             echo "📂 .logs contents:"
@@ -258,8 +258,8 @@ jobs:
           else
             echo "ℹ️ No .cache directory found."
           fi
-		  
-		  if [ -d "logs" ]; then
+
+          if [ -d "logs" ]; then
             echo "💾 Adding logs..."
             git add logs/
           else
