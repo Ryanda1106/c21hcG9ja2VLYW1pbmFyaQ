@@ -12,49 +12,47 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Kaminari =====
-[1]Kaminari    |07:14:31 | 26-10-2026| login OK @BlackMadia | score=4640 rank=82
-[1]Kaminari    |07:14:31 | 26-10-2026| serverTime=2026-10-26T07:14:31.000Z local=2026-10-26T07:14:31.645Z
+[1]Kaminari    |07:04:33 | 27-10-2026| login OK @BlackMadia | score=4730 rank=76
+[1]Kaminari    |07:04:33 | 27-10-2026| serverTime=2026-10-27T07:04:33.000Z local=2026-10-27T07:04:33.884Z
 --> [1]Kaminari menjalankan: Claim Daily
-[1]Kaminari    |07:14:32 | 26-10-2026| daily: OK +10 poin score=4650
---> [1]Kaminari menjalankan: Auto All Tasks (8 pending)
-[1]Kaminari    |07:14:35 | 26-10-2026| [1/8] 30fecda0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/BlackMadia/status/2114616387292270006
-[1]Kaminari    |07:14:35 | 26-10-2026| delay 10s...
-[1]Kaminari    |07:14:46 | 26-10-2026| [2/8] 1db0caec (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/BlackMadia/status/2114616355015814491
-[1]Kaminari    |07:14:46 | 26-10-2026| delay 10s...
-[1]Kaminari    |07:14:59 | 26-10-2026| [3/8] 494e1b1b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/BlackMadia/status/2114616329483010522
-[1]Kaminari    |07:14:59 | 26-10-2026| delay 10s...
-[1]Kaminari    |07:15:12 | 26-10-2026| [4/8] 9b683957 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/BlackMadia/status/2114616554116796988
-[1]Kaminari    |07:15:12 | 26-10-2026| delay 10s...
-[1]Kaminari    |07:15:24 | 26-10-2026| [5/8] 4262aa80 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/BlackMadia/status/2114616434966221691
-[1]Kaminari    |07:15:24 | 26-10-2026| delay 10s...
-[1]Kaminari    |07:15:36 | 26-10-2026| [6/8] ed948baf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/BlackMadia/status/2114616437513071462
-[1]Kaminari    |07:15:36 | 26-10-2026| delay 10s...
-[1]Kaminari    |07:15:48 | 26-10-2026| [7/8] d23e8d85 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/BlackMadia/status/2114616383069414893
-[1]Kaminari    |07:15:48 | 26-10-2026| delay 10s...
-[1]Kaminari    |07:16:00 | 26-10-2026| [8/8] 33550c8b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/BlackMadia/status/2114616575402890571
-[1]Kaminari    |07:16:00 | 26-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Kaminari    |07:16:02 | 26-10-2026| [1/1] 30fecda0 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2114543843555385 | proof=https://x.com/BlackMadia/status/2114616734946892232
+[1]Kaminari    |07:04:34 | 27-10-2026| daily: OK +10 poin score=4740
+--> [1]Kaminari menjalankan: Auto All Tasks (7 pending)
+[1]Kaminari    |07:04:36 | 27-10-2026| [1/7] 569b202e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/BlackMadia/status/2114976149394858783
+[1]Kaminari    |07:04:36 | 27-10-2026| delay 10s...
+[1]Kaminari    |07:04:48 | 27-10-2026| [2/7] 0c0c4157 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/BlackMadia/status/2114976064621625901
+[1]Kaminari    |07:04:48 | 27-10-2026| delay 10s...
+[1]Kaminari    |07:05:00 | 27-10-2026| [3/7] affba66c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/BlackMadia/status/2114976139419632041
+[1]Kaminari    |07:05:00 | 27-10-2026| delay 10s...
+[1]Kaminari    |07:05:12 | 27-10-2026| [4/7] 3a506cad (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/BlackMadia/status/2114976235193753853
+[1]Kaminari    |07:05:12 | 27-10-2026| delay 10s...
+[1]Kaminari    |07:05:24 | 27-10-2026| [5/7] dac9c018 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796
+[1]Kaminari    |07:05:24 | 27-10-2026| delay 10s...
+[1]Kaminari    |07:05:36 | 27-10-2026| [6/7] 9edbb28a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/BlackMadia/status/2114976162740987532
+[1]Kaminari    |07:05:36 | 27-10-2026| delay 10s...
+[1]Kaminari    |07:05:48 | 27-10-2026| [7/7] f12f3018 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/BlackMadia/status/2114976388265072272
+[1]Kaminari    |07:05:48 | 27-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Kaminari    |07:05:51 | 27-10-2026| [1/1] 569b202e (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2114962790477967 | proof=https://x.com/BlackMadia/status/2114976282552389819
 --> [1]Kaminari menjalankan: Watch Anime
-[1]Kaminari    |07:16:03 | 26-10-2026| watch: semua video sudah completed
+[1]Kaminari    |07:05:51 | 27-10-2026| watch: semua video sudah completed
 --> [1]Kaminari menjalankan: Read Article
-[1]Kaminari    |07:16:04 | 26-10-2026| news: 30/30 artikel selesai dibaca
-[1]Kaminari    |07:16:05 | 26-10-2026| mint eligibility: {"userId":"1363123870555729921","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@blackmadia2206","status":"submitted","revision":"e0f42166-0463-40e5-8b15-fd54c3e
-[1]Kaminari    |07:16:05 | 26-10-2026| news: semua artikel sudah dibaca
+[1]Kaminari    |07:05:53 | 27-10-2026| news: 30/30 artikel selesai dibaca
+[1]Kaminari    |07:05:53 | 27-10-2026| mint eligibility: {"userId":"1363123870555729921","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@blackmadia2206","status":"submitted","revision":"e0f42166-0463-40e5-8b15-fd54c3e
+[1]Kaminari    |07:05:53 | 27-10-2026| news: semua artikel sudah dibaca
 --> [1]Kaminari menjalankan: Quiz Anime
 --> [1]Kaminari menjalankan: Music Missions (realtime, bisa lama!)
-[1]Kaminari    |07:16:09 | 26-10-2026| music: kedua misi sudah tercapai, stop
-[1]Kaminari    |07:16:09 | 26-10-2026| mission music-listens-10: sudah diklaim
-[1]Kaminari    |07:16:09 | 26-10-2026| mission music-minutes-30: sudah diklaim
-[1]Kaminari    |07:16:09 | 26-10-2026| mission anime-completed-3: sudah diklaim
+[1]Kaminari    |07:05:57 | 27-10-2026| music: kedua misi sudah tercapai, stop
+[1]Kaminari    |07:05:57 | 27-10-2026| mission music-listens-10: sudah diklaim
+[1]Kaminari    |07:05:57 | 27-10-2026| mission music-minutes-30: sudah diklaim
+[1]Kaminari    |07:05:57 | 27-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Kaminari menjalankan: Claim Missions
-[1]Kaminari    |07:16:10 | 26-10-2026| mission music-listens-10: sudah diklaim
-[1]Kaminari    |07:16:10 | 26-10-2026| mission music-minutes-30: sudah diklaim
-[1]Kaminari    |07:16:10 | 26-10-2026| mission anime-completed-3: sudah diklaim
+[1]Kaminari    |07:05:58 | 27-10-2026| mission music-listens-10: sudah diklaim
+[1]Kaminari    |07:05:58 | 27-10-2026| mission music-minutes-30: sudah diklaim
+[1]Kaminari    |07:05:58 | 27-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Kaminari menjalankan: Check Eligibility
 
 --- eligibility [1]Kaminari ---
-  @BlackMadia | score=4640 rank=82
-  tasks    [--------------------] 0/8
+  @BlackMadia | score=4730 rank=76
+  tasks    [##########----------] 7/14
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -65,14 +63,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Kaminari menjalankan: Read Manga
-[1]Kaminari    |07:16:13 | 26-10-2026| manga: 0/13 chapter belum completed
+[1]Kaminari    |07:06:02 | 27-10-2026| manga: 0/13 chapter belum completed
 --> [1]Kaminari menjalankan: Get Gift
-[1]Kaminari    |07:16:14 | 26-10-2026| gift: 0/4 belum diterima
+[1]Kaminari    |07:06:02 | 27-10-2026| gift: 0/4 belum diterima
 --> [1]Kaminari menjalankan: Setup Profile
-[1]Kaminari    |07:16:15 | 26-10-2026| profile: bio="Bjir" fav=kagura rewardAt=1791318296
-[1]Kaminari    |07:16:15 | 26-10-2026| profile: bonus sudah diklaim, skip
+[1]Kaminari    |07:06:03 | 27-10-2026| profile: bio="Bjir" fav=kagura rewardAt=1791318296
+[1]Kaminari    |07:06:03 | 27-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Kaminari menjalankan: Bind Wallet
-[1]Kaminari    |07:16:16 | 26-10-2026| wallet: sudah terikat 9pkoSNfNES... (solana)
+[1]Kaminari    |07:06:03 | 27-10-2026| wallet: sudah terikat 9pkoSNfNES... (solana)
 
 == RINGKASAN ==
-- Kaminari: daily=claimed | tasks OK 9/9 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Kaminari: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
